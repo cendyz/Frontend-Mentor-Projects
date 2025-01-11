@@ -1,0 +1,14 @@
+@use './sass/reset.scss';
+
+body {
+	display: flex;
+	justify-content: center;
+	margin-top: 2em;
+	background-color: #07130e;
+	background: radial-gradient(transparent 79%, #142c21 80%);
+	background-size: 6em 6em;
+	background-color: #09170f;
+	background-position: center;
+	opacity: 1;
+	font-family: 'Poppins', serif;
+}

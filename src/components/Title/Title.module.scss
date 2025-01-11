@@ -1,0 +1,29 @@
+.title,
+.desc {
+	color: #e0dfdc;
+	text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.4);
+}
+
+.title {
+	margin-bottom: 1em;
+	text-align: center;
+}
+
+.desc {
+	font-size: 1.9rem;
+}
+
+.box {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	column-gap: 1.5em;
+}
+
+.img {
+    display: block;
+	width: 3.75em;
+	height: 3.75em;
+	border-radius: 0.3em;
+    box-shadow: 0 0 10px white;
+}
